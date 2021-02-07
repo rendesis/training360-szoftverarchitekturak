@@ -1,3 +1,3 @@
 # training360-szoftverarchitekturak
 
-![Első kép](Képernyőfelvétel (1).png)
+![Első kép](Demo-01.png)
